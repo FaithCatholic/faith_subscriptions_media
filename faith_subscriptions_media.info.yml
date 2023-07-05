@@ -1,0 +1,10 @@
+name: Faith Subscriptions Media
+type: module
+description: Provides additional functionality for the site.
+package: Faith subscriptions media
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:image
+  - drupal:media
+  - drupal:media_library
+  - drupal:path
