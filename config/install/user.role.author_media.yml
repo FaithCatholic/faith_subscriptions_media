@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies: {  }
+id: author_media
+label: 'Media author'
+weight: 6
+is_admin: null
+permissions: {  }
